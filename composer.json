@@ -1,0 +1,7 @@
+{
+    "name": "sagar/mvc",
+    "require": {},
+    "autiload":{
+    	"psr-4":{"mvc\\":"Src/"}
+    }
+}
